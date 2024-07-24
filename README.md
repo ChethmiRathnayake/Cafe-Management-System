@@ -1,0 +1,1 @@
+This project was done using MERN stack for 2nd year 2nd semester group project. We created a cafe management web application. My part was payment management and profit management. We used github for the integration of the whole system.
